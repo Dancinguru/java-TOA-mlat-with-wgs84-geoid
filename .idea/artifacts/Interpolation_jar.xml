@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Interpolation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Interpolation_jar</output-path>
+    <root id="archive" name="Interpolation.jar">
+      <element id="module-output" name="Interpolation" />
+    </root>
+  </artifact>
+</component>
